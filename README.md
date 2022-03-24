@@ -9,6 +9,9 @@ This repository will be home to my personal presentation as well as my team's pr
     <ul>
       <li>source code and executables</li>
     </ul>
+	<li>README.md</li>
     <li>PowerPoint file and supporting documents</li>
   </ul>
+  <li>README.md</li>
+  <li>YWCC-307-Vaish.pdf</li>
 </ul>
